@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Logo de Mario y Sonic Super Saiyan</title>
+    <title>Logo de Mario y Sonic</title>
 </head>
 <body>
 
